@@ -9,6 +9,27 @@
 <br><br>
 
 <br>
+<div align="center">
+  <div style="background: linear-gradient(135deg, #1f2937, #334155); 
+              border: 2px solid #34d399; 
+              border-radius: 20px; 
+              padding: 12px 40px; 
+              display: inline-block;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);">
+    <h2 style="margin: 0; color: #e0f2fe;">🔥 Coding Languages Being Learned</h2>
+  </div>
+</div>
+
+<br>
+
+<!-- Language Icons -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Gem%20Programming-%23FF00FF.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Gem Programming">
+</div>
+
+<br><br>
 
 
 <!-- Stats -->
