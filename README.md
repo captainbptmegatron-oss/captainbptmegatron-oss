@@ -42,10 +42,10 @@
 <br>
 
 <!-- Language Icons -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="52" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="52" alt="Java">
-  <img src="https://img.shields.io/badge/Gem%20Programming-FF00FF?style=flat&logo=ruby&logoColor=white" height="52" alt="Gem Programming">
+<div align="center" style="gap: 18px; display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="62" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="62" alt="Java">
+  <img src="https://img.shields.io/badge/Gem%20Programming-FF00FF?style=flat&logo=ruby&logoColor=white" height="62" alt="Gem Programming">
 </div>
 
 
