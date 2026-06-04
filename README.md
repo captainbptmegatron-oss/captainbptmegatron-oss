@@ -10,6 +10,8 @@
 
 <br>
 
+
+<!-- Stats -->
 <div align="center">
   <div style="background: linear-gradient(135deg, #1f2937, #334155); 
               border: 2px solid #60a5fa; 
@@ -17,7 +19,25 @@
               padding: 12px 40px; 
               display: inline-block;
               box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);">
-    <h2 style="margin: 0; color: #e0f2fe;">🌐 Connect with me</h2>
+    <h2 style="margin: 0; color: #e0f2fe; font-family: 'Segoe UI', sans-serif;">
+      🚀 My GitHub Stats
+    </h2>
+  </div>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenban&theme=tokyonight&hide_border=true" height="140px">
+</div>
+
+<br>
+
+<div align="center">
+  <div style="background: linear-gradient(135deg, #1f2937, #334155); 
+              border: 2px solid #60a5fa; 
+              border-radius: 20px; 
+              padding: 12px 40px; 
+              display: inline-block;
+              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);">
+    <h2 style="margin: 0; color: #e0f2fe;">🌐 Contact me!</h2>
   </div>
 </div>
 
@@ -45,26 +65,5 @@
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </div>
-
-<!-- Stats -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #1f2937, #334155); 
-              border: 2px solid #60a5fa; 
-              border-radius: 20px; 
-              padding: 12px 40px; 
-              display: inline-block;
-              box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);">
-    <h2 style="margin: 0; color: #e0f2fe; font-family: 'Segoe UI', sans-serif;">
-      🚀 My GitHub Stats
-    </h2>
-  </div>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenban&theme=tokyonight&hide_border=true" height="140px">
-</div>
-
-<br>
-
-
 
 
