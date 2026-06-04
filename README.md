@@ -22,9 +22,9 @@
     <p style="margin: 0; color: #cbd5e1; line-height: 1.7; text-align: justify;">
  Hi, I'm Dur4bl3, my real name's Đào Thế Bảo, I'm come from HaiPhong - VietNam, Yes i'm a beginner leaning to code. My dream is to be a professional programmer and 3D artist, I also hope that one day I will also be one of the people who bring the values ​​of my country through game projects to the world.
  Starting from learning the coding languages ​​I like, starting to do 3D modeling and practicing by drawing packs, rebuilt resources from my predecessors gave me a lot of new experiences when starting out.
+      
+<img width="112" height="120" alt="neco-arc-fate" src="https://github.com/user-attachments/assets/42ce5a61-35e8-48a7-90dd-33af5a98a902" style="background-color: #0d1117;"/><h2 style="margin: 0; color: #e0f2fe;">Thank you for your interest!
     </p>
-<div align="center">
-    <h2 style="margin: 0; color: #e0f2fe;">Thank you for your interest!
 
 <br>
 
