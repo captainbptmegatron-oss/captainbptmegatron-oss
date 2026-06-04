@@ -17,16 +17,15 @@
               padding: 12px 40px; 
               display: inline-block;
               box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);">
-    <h2 style="margin: 0; color: #e0f2fe;">About me<3</h2>
-  </div>
-</div>
-
-<br>
-* Hi, I'm Dur4bl3, my real name's Đào Thế Bảo, I'm come from HaiPhong - VietNam, Yes i'm a beginner leaning to code. My dream is to be a professional programmer and 3D artist, I also hope that one day I will also be one of the people who bring the values ​​of my country through game projects to the world.
-* Starting from learning the coding languages ​​I like, starting to do 3D modeling and practicing by drawing packs, rebuilt resources from my predecessors gave me a lot of new experiences when starting out.
-
+    <h2 style="margin: 0; color: #e0f2fe;">About me<3
+    </h2>
+    <p style="margin: 0; color: #cbd5e1; line-height: 1.7; text-align: justify;">
+ Hi, I'm Dur4bl3, my real name's Đào Thế Bảo, I'm come from HaiPhong - VietNam, Yes i'm a beginner leaning to code. My dream is to be a professional programmer and 3D artist, I also hope that one day I will also be one of the people who bring the values ​​of my country through game projects to the world.
+ Starting from learning the coding languages ​​I like, starting to do 3D modeling and practicing by drawing packs, rebuilt resources from my predecessors gave me a lot of new experiences when starting out.
+    </p>
 <div align="center">
     <h2 style="margin: 0; color: #e0f2fe;">Thank you for your interest!
+</div>
 
 <br>
 
