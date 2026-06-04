@@ -25,7 +25,6 @@
     </p>
 <div align="center">
     <h2 style="margin: 0; color: #e0f2fe;">Thank you for your interest!
-</div>
 
 <br>
 
