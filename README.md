@@ -28,7 +28,6 @@
     <h2 style="margin: 0; color: #e0f2fe;">Thank you for your interest!</h2>
 </div>
 
-<br>
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #1f2937, #334155); 
