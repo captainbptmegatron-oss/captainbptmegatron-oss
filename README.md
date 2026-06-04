@@ -43,9 +43,9 @@
 
 <!-- Language Icons -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="50" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="50" alt="Java">
-  <img src="https://img.shields.io/badge/Gem%20Programming-FF00FF?style=flat&logo=ruby&logoColor=white" height="50" alt="Gem Programming">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="66" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="66" alt="Java">
+  <img src="https://img.shields.io/badge/Gem%20Programming-FF00FF?style=flat&logo=ruby&logoColor=white" height="66" alt="Gem Programming">
 </div>
 
 
