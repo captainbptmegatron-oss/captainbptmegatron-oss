@@ -26,8 +26,8 @@
 * Starting from learning the coding languages ​​I like, starting to do 3D modeling and practicing by drawing packs, rebuilt resources from my predecessors gave me a lot of new experiences when starting out.
 <div align="center">
     <h2 style="margin: 0; color: #e0f2fe;">Thank you for your interest!</h2>
-</div>
 
+<br>
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #1f2937, #334155); 
