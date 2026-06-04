@@ -12,18 +12,11 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenban&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="140px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenban&theme=tokyonight&hide_border=true" height="140px">
 </div>
 
 <br>
 
-<!-- Gmail -->
-<div align="center">
-  <a href="mailto:deepsilver2099@aol.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
 
 
 
